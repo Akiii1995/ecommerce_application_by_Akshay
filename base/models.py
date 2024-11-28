@@ -1,4 +1,4 @@
-from django.d import models
+from django.db import models
 import uuid
 
 #abstract base class model for the same field
